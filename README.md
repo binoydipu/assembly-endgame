@@ -1,7 +1,7 @@
 # 🎮 Assembly: Endgame
 
-A fun React-based game project inspired by **FreeCodeCamp tutorials**.  
-It’s a simple and engaging game built while learning React fundamentals.
+A React-based word guessing game where you must uncover the hidden word within a limited number of guesses.  
+Fail to guess correctly, and you face the **dreaded consequence** of being left with only **Assembly language** to code in! 
 
 ## 🛠 Tech Stack
 - [React](https://reactjs.org/) – Frontend framework
